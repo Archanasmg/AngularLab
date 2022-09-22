@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "You can win",
+      "id": 1,
+      "category": "Biography",
+      "image": "bookImage",
+      "price": "500",
+      "publisher": "Anthony",
+      "isactive": "Yes",
+      "content": "Winners dont't do different things."
+    },
+    {
+      "title": "Secret",
+      "id": 2,
+      "category": "Novel",
+      "image": "Book",
+      "price": "600",
+      "publisher": "Rhonda Byrne",
+      "isactive": "Yes",
+      "content": "If you learn the secret you will come to know."
+    },
+    {
+      "title": "Think like a monk",
+      "id": 3,
+      "category": "Novel",
+      "image": "book",
+      "price": "200",
+      "publisher": "Jay Shetty",
+      "isactive": "yes",
+      "content": "Train your brain for peace."
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

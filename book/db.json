@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "You can win",
+      "id": 1,
+      "category": "Novel",
+      "image": "book",
+      "price": "500",
+      "publisher": "Anthony",
+      "isactive": "Yes",
+      "content": "Winners dont't do different things."
+    },
+    {
+      "title": "Think like a monk",
+      "id": 2,
+      "category": "Biography",
+      "image": "book",
+      "price": "300",
+      "publisher": "Thorsons",
+      "isactive": "Yes",
+      "content": "An easy and proven way to build."
+    },
+    {
+      "title": "HERE, THERE AND EVERYWHERE",
+      "id": 3,
+      "category": "Novel",
+      "image": "book",
+      "price": "500",
+      "publisher": "Sudha",
+      "isactive": "Yes",
+      "content": "Best story "
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
